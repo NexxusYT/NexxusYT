@@ -15,16 +15,18 @@
   
   🍃 I am a **young programmer** who tries harder every day to achieve what the world proposes. I have been programming in languages like **Java** or **Javascript** for more than three years.
   
-  <div style="justify-items: center;">
+  <div>
+    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"/></a>
     <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
     <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
     <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
-    <a href="https://code.visualstudio.com/"><img src="https://iconduck.com/icons/102490/file-type-vscode?shared"/></a>
     <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
     <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
-    <a href="https://www.java.com/es/"><img src="https://iconduck.com/icons/13084/java-original?shared"/></a>
+    <a href="https://www.java.com/es/"><img src="https://img.icons8.com/fluency/30/java-coffee-cup-logo.png"/></a>
+    <a href="https://mariadb.org/"><img src="https://img.icons8.com/fluency/30/maria-db.png"/></a>
+    <a href="https://redis.com/"><img src="https://img.icons8.com/color/30/redis.png"/></a>
   </div>
 </div>
 
