@@ -10,5 +10,23 @@
 
 <a href="https://github.com/NexxusYT"><img src="https://komarev.com/ghpvc/?username=NexxusYT&color=fe30f5" alt="Profile Views"/></a>
 
+<div>
+  <h2></h2>
+  
+  🍃 I am a **young programmer** who tries harder every day to achieve what the world proposes. I have been programming in languages like **Java** or **Javascript** for more than three years.
+  
+  <div style="justify-items: center;">
+    <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
+    <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
+    <a href="https://typescriptlang.org/"><img src="https://img.icons8.com/color/30/000000/typescript.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
+    <a href="https://code.visualstudio.com/"><img src="https://iconduck.com/icons/102490/file-type-vscode?shared"/></a>
+    <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
+    <a href="https://www.java.com/es/"><img src="https://iconduck.com/icons/13084/java-original?shared"/></a>
+  </div>
+</div>
+
 | <img alt="Discord Status" src="https://lanyard.cnrad.dev/api/669948471268212740?borderRadius=5px&theme=dark&animated=true"> | <img src="https://github-readme-stats.vercel.app/api?username=nexxusyt&show_icons=true&theme=synthwave" /> |
 |--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
