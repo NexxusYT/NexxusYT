@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nex" src="https://cdn.discordapp.com/avatars/669948471268212740/994d1d6fc9564770be5a5dad5862bc86.png?size=2048">
 
-# Nex
+# Nex (christmas=true)
 
 <div>
   <a href="https://github.com/NexxusYT"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/NexxusYT" alt="GitHub Badge"/></a>
