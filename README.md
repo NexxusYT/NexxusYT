@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nex" src="https://cdn.discordapp.com/avatars/669948471268212740/994d1d6fc9564770be5a5dad5862bc86.png?size=2048">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nex" src="https://cdn.discordapp.com/avatars/669948471268212740/9e42ecc175acaa7799a9ee4a1047d34b.png?size=2048">
 
 # Nex
 
