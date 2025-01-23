@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nex" src="https://cdn.discordapp.com/avatars/669948471268212740/9e42ecc175acaa7799a9ee4a1047d34b.png?size=2048">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nex" src="https://cdn.discordapp.com/avatars/669948471268212740/540556fbfb0b591236d12aef001a904c.webp">
 
 <b style="font-size: 2.5em;">Nex (@nexgamer_)</b>
 <div>
